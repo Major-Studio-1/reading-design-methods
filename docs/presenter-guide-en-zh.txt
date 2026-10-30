@@ -1,0 +1,67 @@
+Your 15-minute guide
+
+Major Studio · MS Data Viz. Help classmates understand Design Methods by making and questioning design choices for DVC’s first career panel. Aim for learning and reasoned discussion. A complete event plan is not required.
+
+Use one shared screen. For the first two choice questions, invite a show of hands and record the room’s provisional choice. Allow another answer and ask for a reason. The final choice question checks an evaluation concept.
+
+1. The case (1 min)
+Introduce the book and the DVC case. Ask: “What would make a career panel worth attending?” Invite one brief answer and optionally record it as the group’s first thought. Explain that you will revisit this idea using the book’s methods.
+
+2. The problem (3 min)
+Read the three possible needs and ask the room to choose one to investigate. Specify which people you hope to help, such as students exploring their first career opportunity. Ask: “What could we learn from those people that would support or change our understanding of their needs?” For example, are they unsure which career to pursue, or do they already have a direction and need help taking the next step? The class vote chooses a starting point; these needs still require investigation.
+
+3. Alternatives (2 min)
+Give pairs about 30 seconds to suggest a panel format before discussing the options on screen. Record a working choice. Ask: “How would this format help with the need we chose? What might it make harder?” Keep any mismatch visible for the critique.
+
+4. A prototype (3 min)
+Invite one classmate to act as a panel attendee. Say: “You have a career question but prefer not to speak to the room. Use this page to get your question to the moderator.” They can invent a question, such as how to find a first internship, then try entering and submitting it. Observe without naming the button to click. Afterward, ask them to explain what they think happened and what would happen next. Connect this to input, state, and feedback in interactive visualization. This exercise only simulates submitting a question; it does not provide career advice or send anything to DVC.
+
+5. Critique (2 min)
+Ask for one reasoned critique of the chosen format or the question form. Use the prompts: “What supports our goal? Whose needs might we overlook? What would you change, and why?” Invite the person who proposed a choice to explain their reasoning. Optionally record one concern or revision.
+
+6. Evaluation (2 min)
+Ask which action gives direct evidence of someone using the form. After the room chooses, reveal the explanation: observing a task is empirical evaluation, checking principles is analytical evaluation, and discussing reasoning is critique. Ask: “What further evidence would show whether the career panel helped its intended attendees?” A successful form interaction alone cannot answer that question.
+
+7. Reflection (2 min)
+Compare the first thought with the working need and format. Ask: “Which concept changed a decision? How would you use it in your next visualization project?” Name one assumption that still needs investigation. Open questions are a valid outcome. Download the class notes if useful.
+
+G opens or closes the guide. Esc closes it. Use ← / → to move between sections when you are not typing. The G shortcut stays inactive inside text fields and during text composition. Use English / 中文 to switch the guide language.
+
+The suggested timings total 15 minutes. Keep each response brief. If discussion runs long, skip optional note-taking or an extra example and preserve the final reflection. Hide the book sidebar during discussion if useful, then reveal it to connect the activity to the reading.
+
+Choices, notes, and the guide language save in this browser. Download class notes from the final section to keep a copy. The guide appears on the same shared screen as the presentation.
+
+========================================
+
+15 分钟演讲指南
+
+Major Studio · MS Data Viz。通过为 DVC 的首场职业分享会做选择、讨论理由，让同学理解《Design Methods》中的方法。重点是学习与有依据的讨论，不要求当场完成活动方案。
+
+全班使用同一个演示屏幕。前两道选择题可以举手表决，由你记录大家暂时采用的选项。允许提出其他答案，并请同学说明理由。最后一道选择题用于辨认评估方法。
+
+1. 引入案例 (1 分钟)
+简要介绍这本书和 DVC 的案例。提问：“什么会让你觉得一场职业分享会值得参加？”请一位同学简短回答，可以把答案记为大家的第一反应。说明接下来会借助书中的方法，重新审视这个想法。
+
+2. 理解与定义问题 (3 分钟)
+介绍屏幕上的三种可能需求，请大家先选一种来研究。说清楚想帮助哪些人，例如正在探索第一份职业机会的学生。接着问：“从这些人那里了解哪些事情，可能支持或改变我们对他们需求的判断？”例如，他们是不知道该选择哪个职业方向，还是已有方向、却不知道如何迈出下一步？课堂投票只是选定讨论的起点，这些需求仍需要进一步了解和验证。
+
+3. 探索不同方案 (2 分钟)
+先给同学约 30 秒，两人一组提出一种分享会形式，再讨论屏幕上的选项。记录一个暂定方案。提问：“这种形式怎样回应刚才选定的需求？它可能让哪些事情更难？”如果需求与形式不匹配，先保留这个问题，留到评议环节讨论。
+
+4. 体验原型 (3 分钟)
+请一位同学扮演分享会参与者，对他说：“你有一个想问嘉宾的职业问题，但不想现场举手发言。请试着用这个页面，把问题交给主持人。”他可以自己想一个问题，例如如何找到第一份实习，然后尝试输入并提交。你先观察，不告诉他该点击哪个按钮。完成后，请他说明自己认为刚才发生了什么、接下来会怎样。把体验联系到交互可视化中的输入、状态与反馈。本环节只模拟提交问题，不会真的提供职业建议，也不会向 DVC 发送内容。
+
+5. 设计评议 (2 分钟)
+请同学针对选定的形式或提问表单，给出一条有理由的评议。可以问：“哪里支持我们的目标？可能忽略了谁的需求？你会改什么，为什么？”也请提出方案的人解释自己的考虑。可以记录一条担忧或修改建议。
+
+6. 评估方法 (2 分钟)
+请大家判断：哪种做法能直接观察到一个人如何使用表单？选择后解释：观察任务操作属于实证评估；对照设计原则检查属于分析式评估；讨论设计理由与取舍属于设计评议。继续问：“还需要什么证据，才能知道这场分享会是否帮助了目标参与者？”仅仅顺利用完表单，还不足以回答这个问题。
+
+7. 回顾与迁移 (2 分钟)
+把最初的想法与现在选定的需求和形式放在一起比较。提问：“哪个概念改变了我们的某个决定？你会怎样把它用到下一个可视化项目中？”再指出一个仍需调查的假设。留下有价值的问题，也可以是这次练习的成果。需要的话，下载课堂记录。
+
+按 G 打开或关闭指南，按 Esc 关闭。没有输入文字时，可用 ← / → 切换环节。在文本框中输入或使用中文输入法组词时，G 不会打开指南。点击 English / 中文切换指南语言。
+
+各环节合计 15 分钟。请同学简短回答。如果讨论超时，可以跳过可选的文字记录或补充例子，尽量保留最后的回顾。讨论时可以隐藏书本侧栏，解释方法时再展开。
+
+选择、笔记和指南语言会保存在当前浏览器中。最后一页可以下载课堂记录。演讲指南会显示在当前演示屏幕上，投屏时观众也能看到。
