@@ -1,16 +1,28 @@
 # Design Methods in Practice: DVC Career Panel
 
-A 15-minute interactive reading presentation for **Major Studio · MS Data Viz**, applying Amy J. Ko’s *Design Methods* to the design of DVC’s first career panel.
+An interactive reading presentation for **Major Studio · MS Data Viz**, applying Amy J. Ko’s *Design Methods* to the design of DVC’s first career panel.
 
 **[Open the live presentation](https://dvc-design-methods-lab-haolong.hihaolong.chatgpt.site/)** · **[Read the English / 中文 presenter guide](docs/presenter-guide-en-zh.txt)** · **[Read the book](https://faculty.washington.edu/ajko/books/design-methods/)**
 
-![Presentation opening screen](docs/presentation-preview.png)
+## Assignment submission packet
+
+**[Download the complete submission PDF](submission/design-methods-assignment-submission.pdf)**
+
+The six-page packet includes a summary of under five minutes, three discussion questions with a 15-minute facilitation plan, DVC case materials, a digital-paper mind map, and chapter references.
+
+- [Mind-map image](submission/design-methods-mind-map.png)
+- [Separate digital-paper map PDF](submission/design-methods-mind-map-digital-paper.pdf)
+- [Editable summary notes and discussion outline](submission/presentation-notes-and-discussion.md)
+
+Use the packet's **5-minute summary + 15-minute discussion** schedule for the assignment. The app and its bilingual presenter guide retain the original compact 15-minute route. The mind map is an AI-assisted freeform digital drawing, not a photographed hand drawing.
+
+![Design Methods concept map](submission/design-methods-mind-map.png)
 
 ## For the reviewer
 
 Open the live presentation and move through the seven tabs. The main column contains the case, decisions, activities, and discussion prompts; the sidebar connects them to the reading. Press **G** to open the presenter guide, which includes an English / 中文 switch.
 
-For a quick review, choose a working need in **The problem**, choose a format in **Alternatives**, try the question form in **A prototype**, answer the **Evaluation** question, and open **Reflection** to see how the recorded decisions carry through the presentation. The full classroom sequence is designed for 15 minutes.
+For a quick review, choose a working need in **The problem**, choose a format in **Alternatives**, try the question form in **A prototype**, answer the **Evaluation** question, and open **Reflection** to see how the recorded decisions carry through the presentation. The assignment packet provides the extended 5 + 15-minute sequence; the original app route is designed for 15 minutes.
 
 The repository contains the complete app source and presenter guide. It can also be run locally without an account, installation, or build step.
 
@@ -63,7 +75,7 @@ style.css                        Responsive layout and visual styling
 app.js                           Activities, chapter references, state, and bilingual guide
 README.md                        Submission overview and review instructions
 docs/presenter-guide-en-zh.txt    Complete English and Chinese presenter guide
-docs/presentation-preview.png    Opening-screen preview
+submission/                      PDF packet, digital-paper map, image export, and editable notes
 ```
 
 ## Data and prototype scope
